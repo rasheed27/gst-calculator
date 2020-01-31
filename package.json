@@ -1,0 +1,23 @@
+{
+  "name": "gst-calculator",
+  "version": "1.0.7",
+  "description": "GST Tax Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gst-calculator",
+    "Tax Calculator",
+    "Remove Tax",
+    "Tax Calculation",
+    "Subtract Tax",
+    "Tax Addition",
+    "GST Calculator",
+    "GST Calculation",
+    "India Tax Calculation",
+    "India Tax Calculator"
+  ],
+  "author": "Sahik Rasheed Ahamed",
+  "license": "ISC"
+}
